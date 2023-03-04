@@ -35,7 +35,7 @@
     'installable': True,
     'auto_install': False,
     'application': False,
-    "images": ['static/description/Banner.gif'],
+    "images": ['static/description/banner.png'],
 }
 
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
